@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecqurAlseTechno</string>
+    <string name="internet_status"><![CDATA[INTERNET STATUS ->]]></string>
+    <string name="charging_status"><![CDATA[CHARGING STATUS ->]]></string>
+    <string name="charging_present"><![CDATA[CHARGING PRESENT ->]]></string>
+    <string name="location"><![CDATA[LOCATION ->]]></string>
+    <string name="timestamp"><![CDATA[TIMESTAMP ->]]></string>
+    <string name="welcome_to_secquralsetech">Welcome to SecqurAlseTech</string>
+</resources>

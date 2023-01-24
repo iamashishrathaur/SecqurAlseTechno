@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564064775582",
+    "project_id": "secquralsetechno",
+    "storage_bucket": "secquralsetechno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564064775582:android:3efe921014996b3833fa8f",
+        "android_client_info": {
+          "package_name": "com.example.secquralsetechno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564064775582-qkqjifks7sd8ta6i14r8p5v7ur2bjqfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxj_PU9JIeF6p8Rsr11Uj-RwAvmiVm2M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564064775582-qkqjifks7sd8ta6i14r8p5v7ur2bjqfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
